@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">MyLocal</string>
+	<string name="hello">Hello World!</string>
+	<string name="first">First</string>
+	<string name="center">Center</string>
+	<string name="end">End</string>
+</resources>

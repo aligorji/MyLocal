@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">من و تو</string>
+	<string name="hello">سلام دنیا</string>
+	<string name="first">اول</string>
+	<string name="center">وسط</string>
+	<string name="end">آخر</string>
+</resources>
